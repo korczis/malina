@@ -1,4 +1,4 @@
 malina
 ======
 
-Raspberry Pi playground
+Raspberry Pi playground - let's play!
